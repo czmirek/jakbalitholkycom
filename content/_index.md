@@ -1,7 +1,3 @@
 ---
-title: "Home page"
+title: "Jak balit holky"
 ---
-
-This line is from `content/_index.md`.
-
-[Go to firstpost](/firstpost/).
