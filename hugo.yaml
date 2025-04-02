@@ -1,0 +1,6 @@
+baseURL: https://jakbalitholky.com/
+languageCode: cs-cz
+title: Jak balit holky
+pluralizelisttitles: false
+canonifyURLs: true
+disableKinds: ["taxonomy", "term"]
