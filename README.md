@@ -6,9 +6,13 @@ Tento web je je profesionálně vytvořená *past* na zranitelné muže hledají
 
 Tato past se skládá z následujících částí které nejsou nutně seřazené a mohou prolínat.
 
-- **Udička**: Nadhození *udičky* která slibuje rychlé výsledky. Do grafiky hlavní stránky (a celkového designu) bych rád investoval nějaké prostředky pro dojem profesionálnosti a autentičnosti. Texty této stránky obsahují přesně to, co typické stránky těchto webů obsahují lákavé sliby, vymezení se, co všichni ostatní dělají blbě a čím je tento web vyjímečný, velmi působivé reference (naprosto smyšlené, s fotkami lidí vygenerovanými přes AI). Díky AI dokážeme vygenerovat např. "fotky z workshopů" a podobně. Stránka musí být naprosto přesvědčivá a slibuje veliká, rychlá a funkční řešení, žádné řešení napřímo však nesděluje a je zakončena velikým tlačítkem typu "Naučit se tajemství balení holek" nebo "Vstoupit do programu" a podobně. Fantazii se meze nekladou.
+## Nahoznení udičky
 
-- **Uznání hledání techniky**: Je velmi pravděpodobné, že muž, na kterého tento web cílí, si už něco na téma "jak balit holky" z různých zdrojů něco přečetl, možná si zaplatil nějaký ebook nějakého gurua, podíval se na jeho video potažmo se přihlásil se do workshopu "Jak balit holky na ulici". 
+Nahození *udičky* která slibuje rychlé výsledky. Do grafiky hlavní stránky (a celkového designu) bych rád investoval nějaké prostředky pro dojem profesionálnosti a autentičnosti. Texty této stránky obsahují přesně to, co typické stránky těchto webů obsahují lákavé sliby, vymezení se, co všichni ostatní dělají blbě a čím je tento web vyjímečný, velmi působivé reference (naprosto smyšlené, s fotkami lidí vygenerovanými přes AI). Díky AI dokážeme vygenerovat např. "fotky z workshopů" a podobně. Stránka musí být naprosto přesvědčivá a slibuje veliká, rychlá a funkční řešení, žádné řešení napřímo však nesděluje a je zakončena velikým tlačítkem typu "Naučit se tajemství balení holek" nebo "Vstoupit do programu" a podobně. Fantazii se meze nekladou.
+
+## Uznání hledání techniky
+
+Je velmi pravděpodobné, že muž, na kterého tento web cílí, si už něco na téma "jak balit holky" z různých zdrojů něco přečetl, možná si zaplatil nějaký ebook nějakého gurua, podíval se na jeho video potažmo se přihlásil se do workshopu "Jak balit holky na ulici". 
 
 Přemýšlejte chvilku o psychice muže, který na internetu vyhledává obsah "jak balit holky". Jde pravděpodobně o mladého muže, izolovaného na svém mobilním telefonu, ponořeného v sociálních sítích avšak bez žádného nebo téměř žádného živého sociálního kontaktu, přátel či komunity. Tento muž, stejně jako každý jiný mladý muž, touží po krásných ženách, je však se ženami neúspěšný a tak se snaží pátrat po "technikách".
 
@@ -16,7 +20,9 @@ Kdybychom mu rovnou řekli, ať se na tyhle věci vyse\*e, že to je jen snůšk
 
 Při uznání hledání techniky už nechceme vytvářet dojem, že jsme lepší, než ostatní (což je možná ok na hlavní stránce v rámci "udičky"). Potřebujeme validovat návštěvníka webu v kontextu toho, co jej reálně trápí a s čím se potýká a to je izolace a samota.
 
-- **Seznámení s funkční technikou**: Součástí webu je předání opravdové "techniky", která "funguje".
+## Seznámení s funkční technikou
+
+Součástí webu je předání opravdové "techniky", která "funguje".
 
 Obsahem této části je text popisující **pozitivní filozofii balení holek**. Nevím, jestli je to název skutečné filozofie ale je to rozhodně existující mindset **hrstky** jednotlivců který jsem vysledoval v komunitách *street gamerů*, když jsem já, autor tohoto projektu, byl kdysi dávno posedlý balením holek na ulici.
 
@@ -26,13 +32,13 @@ To neobsahuje žádnou toxicitu, žádné ponižování ani nadřazování žen 
 
 Tato část by klidně mohla obsahovat i ukázkové video oslovení cizí holky na ulici od street gamera s pozitivním mindsetem, nebo bych i takové video klidně naaranžoval protože upřímně není důvod si myslet, proč by takový přístup **pro k tomu dobře nastaveného člověka** nemohl fungovat.
 
-- **Rozcestník**:
+## Rozcestník
 
 Tragédií pro návštěvníka webu je, že muž úspěšně praktikující pozitivní filozofii balení holek **je již psychicky stabilní, vyrovnaný sám se sebou a nepotřebuje street gaming, aby trávil příjemný čas se ženami.**
 
 Při seznámení s pozitivní filozofií balení holek je nutné začít obsah postupně prokládat kontrastem mezi falešným ideálem sebevědomého muže a uznáním problémů, se kterými se muži v dnešní době potýkají. Text je nyní nutné prokládat také odkazy na individuální články, které pojednávají o konkrétní oblasti (emoce, trauma, terapie, výběr psychologa, sociální sítě, závislosti, atd.) Nejtěžší bude veškerý tento obsah napsat.
 
-- **Jednoduché pravdy**:
+## Jednoduché pravdy
 
 Texty na webu se tváří velmi "inteligentně" a "rafinovaně" ale od určité části jde jen o uznání jednoduchých sdělení.
 
