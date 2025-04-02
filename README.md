@@ -6,7 +6,7 @@ Tento web je je profesionálně vytvořená *past* na zranitelné muže hledají
 
 Tato past se skládá z následujících částí které nejsou nutně seřazené a mohou prolínat.
 
-## Nahoznení udičky
+## Nahození udičky
 
 Nahození *udičky* která slibuje rychlé výsledky. Do grafiky hlavní stránky (a celkového designu) bych rád investoval nějaké prostředky pro dojem profesionálnosti a autentičnosti. Texty této stránky obsahují přesně to, co typické stránky těchto webů obsahují lákavé sliby, vymezení se, co všichni ostatní dělají blbě a čím je tento web vyjímečný, velmi působivé reference (naprosto smyšlené, s fotkami lidí vygenerovanými přes AI). Díky AI dokážeme vygenerovat např. "fotky z workshopů" a podobně. Stránka musí být naprosto přesvědčivá a slibuje veliká, rychlá a funkční řešení, žádné řešení napřímo však nesděluje a je zakončena velikým tlačítkem typu "Naučit se tajemství balení holek" nebo "Vstoupit do programu" a podobně. Fantazii se meze nekladou.
 
