@@ -8,7 +8,7 @@ Tato past však postupně navazuje na témata seberozvoje, sebepoznání, terapi
 
 Tato past se skládá z následujících částí které nejsou nutně seřazené a mohou prolínat.
 
-## Hlavní stránka: nahození udičky
+## Nahození udičky
 
 Do grafiky hlavní stránky (a celkového designu) bych rád investoval nějaké finance pro dojem profesionálnosti a autentičnosti. Texty této stránky obsahují přesně to, co typické stránky těchto webů obsahují lákavé sliby, vymezení se, co všichni ostatní dělají blbě a čím je tento web vyjímečný, velmi působivé reference (naprosto smyšlené, s fotkami lidí vygenerovanými přes AI).
 
