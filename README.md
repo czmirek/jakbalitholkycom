@@ -4,11 +4,17 @@ JakBalitHolky.com je neziskový projekt statického webu **jehož vizí je osvě
 
 Tento web je je profesionálně vytvořená *past* na zranitelné muže hledající okamžité uspokojení, validaci a únik od sebe, od svých úzkostí a strachů k rychlému řešení, rychlým výsledkům a ke splnění hlubokých přání, jejichž základ často spočívá v hlubokých, nezpracovaných bolestech. 
 
-Tato past se skládá z následujících částí které nejsou nutně seřazené a mohou prolínat.
+Past se skládá z následujících částí které nejsou nutně seřazené a mohou prolínat.
 
 ## Nahození udičky
 
-Nahození *udičky* která slibuje rychlé výsledky. Do grafiky hlavní stránky (a celkového designu) bych rád investoval nějaké prostředky pro dojem profesionálnosti a autentičnosti. Texty této stránky obsahují přesně to, co typické stránky těchto webů obsahují lákavé sliby, vymezení se, co všichni ostatní dělají blbě a čím je tento web vyjímečný, velmi působivé reference (naprosto smyšlené, s fotkami lidí vygenerovanými přes AI). Díky AI dokážeme vygenerovat např. "fotky z workshopů" a podobně. Stránka musí být naprosto přesvědčivá a slibuje veliká, rychlá a funkční řešení, žádné řešení napřímo však nesděluje a je zakončena velikým tlačítkem typu "Naučit se tajemství balení holek" nebo "Vstoupit do programu" a podobně. Fantazii se meze nekladou.
+Nahození *udičky* která slibuje rychlé výsledky. Do grafiky hlavní stránky (a celkového designu) bych rád investoval nějaké prostředky pro dojem profesionálnosti a autentičnosti. Texty této stránky obsahují přesně to, co typické stránky těchto webů obsahují lákavé sliby, vymezení se, co všichni ostatní dělají blbě a čím je tento web vyjímečný, velmi působivé reference (naprosto smyšlené, s fotkami lidí vygenerovanými přes AI).
+
+## Velká lež titulní stránky
+
+Díky AI dokážeme vygenerovat např. "fotky z workshopů" a podobně. Titulní stránka musí být naprosto přesvědčivá. Slibuje veliká, rychlá a funkční řešení - *100% garance, rychlé výsledky, sbalte holku svých snů ještě dnes!* Součástí stránky jsou taky naprosto smyšlené/AI reference.  Fantazii se meze nekladou. Na této stránce však není žádný odkaz, který by vedl mimo doménu.
+
+Titulní stránka žádné řešení nesděluje a je zakončena velikým tlačítkem typu "Naučit se tajemství balení holek" nebo "Vstoupit do programu" a podobně.
 
 ## Uznání hledání techniky
 
