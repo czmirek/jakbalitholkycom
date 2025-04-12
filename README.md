@@ -55,6 +55,10 @@ Tyto články s podrobným řešením však vedou ke stejnému vyústění, jež
 
 Past slibující rychlá řešení je postupně rozptýlená do řady článků které všechny sdělují stejnou zprávu --- pokud chceš být úspěšný se ženami, pokud chceš opravdu balit holky, začni se vážně dívat sám do sebe. Tato zpráva však nikdy není explicitně předaná jako řešení čehokoliv. Místo toho se od prvních naprosto lživých slibů v rámci udičky rozpouští do obsahu celého webu, na který se z hlavní stránky náštěvník webu prokliká.
 
+## Technologické provedení
+
+Stránka je vytvořena přes [hugo](https://gohugo.io/) bez žádného předdefinovaného stylu, vše je uděláno ručně v HTML s podporou Huga, CSS ([Bootstrap](https://getbootstrap.com/)), případně obyčejný javascript. 
+
 ## O autorovi
 
 Autor tohoto projektu je muž, který kdysi dávno chtěl umět balit holky a studoval kvůli tomu všemožné "techniky" ale měl štěstí, že poznal lidi, kteří mu pomohli jít cestu své osobní terapie a sebepoznání.
