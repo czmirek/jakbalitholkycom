@@ -40,6 +40,17 @@ Součástí stránky jsou taky naprosto smyšlené/AI reference. Fantazii se mez
 
 Titulní stránka však žádné řešení nesděluje a je zakončena velikým tlačítkem typu "Naučit se tajemství balení holek" nebo "Vstoupit do programu" a podobně.
 
+### První krok, druhý krok...
+
+
+## Cesta k seberozvoji
+
+Titulní stránka vede nejdřív na první krok jakoby "techniky" (viz. níže), možná i na druhý nebo na třetí krok.
+
+Od titulní stránky, která slibuje naprosto fantastické věci, web pomalu navazuje na témata seberozvoje, sebepoznání, terapie, psychologie ale i k ontologii, kritice toxické mužské kultury a uznání problémů, se kterými se muž v dnešní době musí nějak psychicky vyrovnat.
+
+Postupně se návštěvník webu začne ocitat na vzájemně prolinkovaných stránkách a rozcestnících, která se podrobněji a vážněji zabývají tématy seberozvoje, sebereflexe, terapie a podobně.
+
 ## Uznání hledání techniky
 
 Muži na které tento web cílí, si už něco na téma "jak balit holky" z různých zdrojů nejspíš něco přečetli, možná si zaplatili nějaký ebook nějakého gurua, podívali se na jeho video potažmo se přihlásili se do workshopu "Jak balit holky na ulici". 
@@ -51,14 +62,6 @@ Přemýšlejte chvilku o psychice muže, který na internetu vyhledává obsah "
 Jde pravděpodobně o mladého muže, izolovaného na svém mobilním telefonu, ponořeného v sociálních sítích avšak bez žádného nebo téměř žádného živého sociálního kontaktu, přátel či komunity. Tento muž, stejně jako každý jiný mladý muž, touží po krásných ženách, je však se ženami neúspěšný (za to ale nemůže) a tak se snaží pátrat po "technikách". Přístup k ženám jako k "dosáhnutí cíle" je ve světě takového muže vždy jednodušší, než převzetí zodpovědnosti za sebe a za svůj psychický stav, který může být plný bolesti.
 
 Při uznání hledání techniky nechceme vytvářet dojem, že jsme lepší, než ostatní. Potřebujeme validovat návštěvníka webu v kontextu toho, co jej reálně trápí a s čím se potýká a to je izolace, samota, prázdnota, absence životní energie a smyslu.
-
-## Cesta k seberozvoji
-
-Od titulní stránky, která slibuje naprosto fantastické věci, web tématicky a pomalu navazuje na témata seberozvoje, sebepoznání, terapie, psychologie ale i k ontologii, kritice toxické mužské kultury a uznání problémů, se kterými se muž v dnešní době musí nějak psychicky vyrovnat.
-
-Titulní stránka vede nejdřív na první krok jakoby "techniky" (viz. níže), možná i na druhý nebo na třetí krok.
-
-Postupně se návštěvník webu začne ocitat na vzájemně prolinkovaných stránkách a rozcestnících, která se podrobněji zabývají nějakým tématem.
 
 ## Předání "techniky"
 
