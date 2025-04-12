@@ -1,18 +1,18 @@
 # JakBalitHolky.com
 
-JakBalitHolky.com je neziskový projekt statického webu **jehož vizí je osvěta psychického zdraví mužů a témat, která jsou pro muže důležitá.**
+`JakBalitHolky.com` je neziskový projekt webu **s vizí osvěty psychického zdraví mužů a témat, která jsou pro muže důležitá.**
 
-Tento web společně s doménou je profesionálně vytvořená "past" na zranitelné muže hledající okamžité uspokojení, validaci a únik od sebe, od svých úzkostí a strachů k rychlému řešení, rychlým výsledkům a ke splnění hlubokých přání, jejichž základ často spočívá v hlubokých, nezpracovaných bolestech.
+## Jak to funguje
 
-Takoví muži na dnešním internetu vyhledají a vzhledem k neexistujícím alternativám spadnou do díky internetu stále hlasitějších kultur hlásících se k toxické maskulinitě neskrývaně šířící nenávist, mysogonii, "incel" kulturu a podobně.
+Web je profesionálně "past" na zranitelné muže hledající okamžité uspokojení, validaci a únik od sebe, od svých úzkostí a strachů k rychlému řešení, rychlým výsledkům a ke splnění hlubokých přání, jejichž základ často spočívá v hlubokých, nezpracovaných bolestech.
 
-Tento web je pokus tyto snahy "přebít" alternativou navádějící ke zdravě pojatému osobnímu seberozvoji a objasnění témat, se kterými se běžně muži potýkají.
+Takoví muži na dnešním internetu vzhledem k neexistujícím alternativám spadnou do díky internetu stále hlasitějších kultur hlásících se k toxické maskulinitě neskrývaně šířící nenávist, mysogonii, "incel" kulturu a podobně.
+
+Tento web je pokus tyto snahy přebít alternativou navádějící ke zdravě pojatému osobnímu seberozvoji a objasnění témat, se kterými se běžně muži potýkají.
 
 Web se skládá z následujících částí které nejsou nutně seřazené a mohou prolínat.
 
 ## Nahození udičky
-
-
 
 Do grafiky hlavní stránky (a celkového designu) bych rád investoval nějaké finance pro dojem profesionálnosti a autentičnosti. Texty této stránky obsahují přesně to, co typické stránky těchto webů obsahují lákavé sliby, vymezení se, co všichni ostatní dělají blbě a čím je tento web vyjímečný, velmi působivé reference (naprosto smyšlené, s fotkami lidí vygenerovanými přes AI).
 
