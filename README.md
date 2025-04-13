@@ -2,7 +2,8 @@
 
 `JakBalitHolky.com` je projekt webu **s vizí osvěty psychického zdraví mužů a témat, která jsou pro muže důležitá** skrz stránku falešně nabízející rychlé řešení balení holek.
 
-> [!IMPORTANT] PROJEKT HLEDÁ DOBROVOLNÍKY: grafika, frontendistu a tvůrce obsahu! Více níže v textu.
+> [!IMPORTANT]
+> **PROJEKT HLEDÁ DOBROVOLNÍKY**. Více níže v textu.
 
 # Jak to funguje
 

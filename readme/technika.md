@@ -21,7 +21,8 @@ První krok techniky pokračuje stále v duchu titulní stránky a postupně za�
 
 Muži na které tento web cílí, si už něco na téma "jak balit holky" z různých zdrojů nejspíš něco přečetli, možná si zaplatili nějaký ebook nějakého gurua, podívali se na jeho video potažmo se přihlásili se do workshopu "Jak balit holky na ulici". 
 
-> [!CAUTION] Je naprosto zásadní návštěvníka webu za jeho touhu po hledání techniky nijak neodsuzovat!
+> [!CAUTION]
+> Je naprosto zásadní návštěvníka webu za jeho touhu po hledání techniky nijak neodsuzovat!
 
 Přemýšlejte chvilku o psychice muže, který na internetu vyhledává obsah "jak balit holky".
 
