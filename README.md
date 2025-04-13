@@ -1,6 +1,6 @@
 # [JakBalitHolky.com](https://jakbalitholky.com)
 
-`JakBalitHolky.com` je projekt webu **s vizí osvěty psychického zdraví mužů a témat, která jsou pro muže důležitá** skrz stránku falešně nabízející rychlé řešení balení holek.
+`JakBalitHolky.com` je projekt webu **s vizí osvěty psychického zdraví mužů a témat, která jsou pro muže důležitá** skrz stránku falešně nabízející techniku pro balení holek.
 
 > [!IMPORTANT]
 > **PROJEKT HLEDÁ DOBROVOLNÍKY**. Více níže v textu.
