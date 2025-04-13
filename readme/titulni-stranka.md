@@ -17,11 +17,11 @@ Její struktura a formát je podobný jiným stránkám, které se reálně na z
 Díky tomu může být titulní stránka  naprosto lživá [^1] a může obsahovat naprosto úžasná tvrzení jako:
 
 - *spolehlivé a funkční metody*
-- *100% garance úspěchu*
+- *100% garance úspěchu* [^2]
 - *sbalte holku svých snů ještě dnes*
 
 > [!IMPORTANT]
-> Stránka musí být lživá a ve svých tvrzeních fantastická a neuvěřitelná - nesmí být ale absurdní a komická, důvěryhodnost je zde důležitá.
+> Stránka je ve svých tvrzeních fantastická a neuvěřitelná - nesmí být ale absurdní a komická, důvěryhodnost je zde důležitá.
 
 ## Využití AI
 
@@ -35,3 +35,5 @@ Součástí stránky jsou taky naprosto smyšlené/AI reference. Fantazii se mez
 Titulní stránka žádné řešení nesděluje a je zakončena velikým tlačítkem typu "Naučit se tajemství balení holek" nebo "Vstoupit do programu" a podobně.
 
 [^1]: Popravdě v tom žádný rozdíl oproti reálným placeným technikám. Všechno to jsou jen smyšlené lži cílené na zranitelné muže se záměrem získat z nich peníze. 
+
+[^2]: Neexistuje na světě muž, kterému by nějak ublížila introspekce, sebereflexe, terapie a vážný zájem o své bytí a psychický stav. 100% garance úspěchu není až zas taková lež, že? 
