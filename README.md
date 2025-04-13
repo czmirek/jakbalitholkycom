@@ -1,44 +1,23 @@
 # [JakBalitHolky.com](https://jakbalitholky.com)
 
-`JakBalitHolky.com` je neziskový projekt webu **s vizí osvěty psychického zdraví mužů a témat, která jsou pro muže důležitá.**
+`JakBalitHolky.com` je projekt webu **s vizí osvěty psychického zdraví mužů a témat, která jsou pro muže důležitá.**
 
-⚠️ Tento text včetně samotného webu je stále **work in progress**.
+> [!IMPORTANT]
+> ⚠️ **PROJEKT HLEDÁ DOBROVOLNÍKY**: GRAFIKA, FRONTENDISTU A TVŮRCE OSBAHU! Více níže v textu.
 
-⚠️ **PROJEKT HLEDÁ PRACOVNÍ SÍLU**: GRAFIKA, FRONTENDISTU A TVŮRCE OSBAHU! Více níže v textu.
+# Jak to funguje
 
-## Jak to funguje
+První a důležitá část webu je **titulní stránka**. Ta se snaží co nejvěrněji napodobovat weby nabízející ebooky, kurzy, videa, workshopy a další různé obsahy slibující techniky a rady jak balit holky (v baru, na ulici, na seznamkách...). Titulní stránka obsahuje chytlavé fráze, úžasná řešení *("sbal holku ještě dnes")*, fantastické sliby *("100% garance úspěchu")*, clickbaity a podobně.
 
-Web je profesionálně "past" na zranitelné muže hledající okamžité uspokojení, validaci a únik od sebe, od svých úzkostí a strachů k rychlému řešení, rychlým výsledkům a ke splnění hlubokých přání, jejichž základ často spočívá v hlubokých, nezpracovaných bolestech.
+Na titulní stránku navazuje **technika** rozdělená na několik kroků. Stále se snaží udržet dojem něčeho fantastického, ve skutečnosti se však drží jednoduché filozofie: **Pokud chceš být úspěšný u žen, musíš se začít vážně dívat do sebe.** Navádí k introspekci, sebereflexi a terapii.
 
-Takoví muži na dnešním internetu vzhledem k neexistujícím alternativám spadnou do díky internetu stále hlasitějších kultur hlásících se k toxické maskulinitě neskrývaně šířící nenávist, mysogonii, "incel" kulturu a podobně.
+Technika v odkazech a jednotlivých krocích odkazuje (tentokrát již nelineárně) do třetí části webu a to jsou **navzájem prolinkované články** obsahující diskuzi a kritiku na různá témata - psychoterapie, fenomenologie, toxická maskulinita, sociální sítě, mužské vzory, vztah k autoritám, vztah k ženám, mužská mysogonie, feminismus atd. apod. Tyto články jsou tvořené dobrovolníky tohoto projektu.
 
-Tento web je pokus tyto snahy přebít alternativou navádějící ke zdravě pojatému osobnímu seberozvoji a objasnění témat, se kterými se běžně muži potýkají.
+## Podrobnosti
 
-Web se skládá z následujících částí které nejsou nutně seřazené a mohou prolínat.
+- [Titulní stránka](readme/titulni-stranka.md)
 
-## Titulní stránka
 
-Titulní stránka je pro projekt klíčová. Její struktura a formát je podobný jiným stránkám, které se reálně na zranitelných mužích snaží zbohatnout a za peníze jim nabízet instruktážní videa, ebooky či slevy na online workshopy o balení holek.
-
-### Nahození udičky
-
-Grafika a text titulní stránky musí působit profesionálním a autentickým dojmem. 
-
-### Velká lež
-
-Vzhledem k tomu, že žádné reálné "kurzy" nebo "ebooky" stránka nenabízí, můžeme si dovolit lhát a na titulní stránce si vymýšlet způsobem, jaký si netroufnou ani reální autoři nějakých balících technik či podobných blbostí.
-
-Titulní stránka tak může obsahovat naprosto úžasná tvrzení jako:
-
-- *spolehlivé a funkční metody*
-- *100% garance úspěchu*
-- *sbalte holku svých snů ještě dnes*
-
-Díky AI dokážeme vygenerovat např. fotky z workshopů a podobně, přestože žádné workshopy neexistují.
-
-Součástí stránky jsou taky naprosto smyšlené/AI reference. Fantazii se meze nekladou.
-
-Titulní stránka však žádné řešení nesděluje a je zakončena velikým tlačítkem typu "Naučit se tajemství balení holek" nebo "Vstoupit do programu" a podobně.
 
 ### První krok, druhý krok...
 
