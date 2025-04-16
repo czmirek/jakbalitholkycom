@@ -33,4 +33,4 @@ Stránka je vytvořena přes [hugo](https://gohugo.io/) bez žádného předdefi
 
 ## O autorovi
 
-Autor tohoto projektu je muž, který kdysi dávno chtěl umět balit holky a studoval kvůli tomu všemožné techniky. Měl však  a poznal lidi, kteří mu pomohli jít cestou své osobní terapie a sebepoznání. V současné době je šťastně ženatý a připravuje se na příchod potomka.
+Autor tohoto projektu je muž, který kdysi dávno chtěl umět balit holky a studoval kvůli tomu všemožné techniky. Měl štěstí a poznal lidi, kteří mu pomohli jít cestou své osobní terapie a sebepoznání. V současné době je šťastně ženatý a připravuje se na příchod potomka.
