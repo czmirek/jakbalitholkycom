@@ -4,3 +4,7 @@ title: Jak balit holky
 pluralizelisttitles: false
 canonifyURLs: true
 disableKinds: ["taxonomy", "term"]
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

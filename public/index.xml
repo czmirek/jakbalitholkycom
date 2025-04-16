@@ -12,7 +12,7 @@
       <link>http://localhost:1313/prvni-krok/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/prvni-krok/</guid>
-      <description>&lt;h1 id=&#34;první-krok&#34;&gt;První krok&lt;/h1&gt;</description>
+      <description>&lt;h1 class=&#34;fw-bold text-center&#34;&gt;První krok k úspěchu&lt;/h1&gt;&#xD;&#xA;&lt;div class=&#34;container fs-4 mt-4 text-center&#34;&gt;&#xD;&#xA;    Ještě jednou &lt;strong&gt;gratulujeme!&lt;/strong&gt;&#xD;&#xA;    &lt;br /&gt;&#xD;&#xA;    Tento návod je skutečně první svého druhu a jsi jeden z prvních, kteří mají to štěstí poznat něco výjmečného. &#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;div class=&#34;alert alert-danger mt-4 text-center&#34;&gt;&#xD;&#xA;    &lt;span class=&#34;fs-4&#34;&gt;👉 &lt;strong&gt;První důležité pravidlo&lt;/strong&gt; 👈 &lt;/span&gt;&#xD;&#xA;     &lt;hr /&gt;&#xD;&#xA;     &lt;span class=&#34;fs-4&#34;&gt;&#xD;&#xA;        Návod obsahuje spoustu textu, jednotlivé kroky je třeba číst &lt;strong&gt;pečlivě a pomalu.&lt;/strong&gt;&#xD;&#xA;     &lt;/span&gt;&#xD;&#xA;    &lt;div class=&#34;mt-2&#34;&gt;&#xD;&#xA;     ℹ️&lt;span class=&#34;fs-6 fst-italic&#34;&gt;&#xD;&#xA;      Neboj se, pokud nebudeš hned něčemu rozumět.&lt;br /&gt;&#xD;&#xA;     K návodu se můžeš kdykoliv vrátit. Nikam neodejde!&#xD;&#xA;     &lt;/span&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
