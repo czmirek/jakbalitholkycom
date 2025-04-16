@@ -1,3 +1,3 @@
 ---
-title: "Jak balit holky"
+title: "👋"
 ---
