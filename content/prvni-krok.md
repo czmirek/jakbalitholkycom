@@ -6,7 +6,7 @@ title: "První krok"
 <div class="container fs-4 mt-4 text-center">
     Ještě jednou <strong>gratulujeme!</strong>
     <br />
-    Tento návod je skutečně první svého druhu a jsi jeden z prvních, kteří mají to štěstí poznat něco výjmečného. 
+    Tento návod je skutečně první svého druhu a jsi jeden z prvních, kteří mají to štěstí poznat něco vyjímečného. 
 </div>
 
 <div class="alert alert-danger mt-4 text-center">
