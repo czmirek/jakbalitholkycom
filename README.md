@@ -1,17 +1,17 @@
 # [JakBalitHolky.com](https://jakbalitholky.com)
 
-`JakBalitHolky.com` je projekt webu **s vizí osvěty psychického zdraví mužů a témat, která jsou pro muže důležitá** skrz stránku falešně nabízející techniku pro balení holek.
+`JakBalitHolky.com` je projekt webu **s vizí osvěty psychického zdraví mužů** skrz stránku falešně nabízející techniku pro balení holek
 
 > [!IMPORTANT]
 > **PROJEKT HLEDÁ DOBROVOLNÍKY**. Více níže v textu.
 
 # Jak to funguje
 
-První a důležitá část webu je **titulní stránka**. Ta se snaží co nejvěrněji napodobovat weby nabízející ebooky, kurzy, videa, workshopy a další různé obsahy slibující techniky a rady jak balit holky (v baru, na ulici, na seznamkách...). Titulní stránka obsahuje chytlavé fráze, úžasná řešení *("sbal holku ještě dnes")*, fantastické sliby *("100% garance úspěchu")*, clickbaity a podobně.
+První a důležitá část webu je **titulní stránka**. Ta se snaží co nejvěrněji napodobovat weby nabízející ebooky, kurzy, videa, workshopy a další různé obsahy slibující techniky a rady jak balit holky (v baru, na ulici, na seznamkách...). Titulní stránka obsahuje chytlavé fráze, úžasná řešení *("sbal holku ještě dnes")*, fantastické sliby *("100% garance úspěchu")* a podobně.
 
-Na titulní stránku navazuje **technika** rozdělená na několik kroků. Stále se snaží udržet dojem něčeho fantastického, ve skutečnosti se však drží jednoduché filozofie: **Pokud chceš být úspěšný u žen, musíš se začít vážně dívat do sebe.** Navádí k introspekci, sebereflexi a terapii.
+Na titulní stránku navazuje **technika** rozdělená na několik kroků. Technika se snaží udržet dojem něčeho fantastického, ve skutečnosti se však drží jednoduché filozofie: **Pokud chceš být úspěšný u žen, musíš se začít vážně dívat do sebe.** Navádí k introspekci, sebereflexi a terapii.
 
-Technika v odkazech a jednotlivých krocích odkazuje (tentokrát již nelineárně) do třetí části webu a to jsou **navzájem prolinkované články** obsahující diskuzi a kritiku na různá témata - psychoterapie, fenomenologie, toxická maskulinita, sociální sítě, mužské vzory, vztah k autoritám, vztah k ženám, mužská mysogonie, feminismus atd. apod. Tyto články jsou tvořené dobrovolníky tohoto projektu.
+Technika v odkazech a jednotlivých krocích odkazuje (tentokrát již nelineárně) do třetí části webu a to jsou **navzájem prolinkované články** které již velmi důsledně analyzují, diskutují či kritizují různá témata - psychoterapie, fenomenologie, toxická maskulinita, sociální sítě, mužské vzory, vztah k autoritám, vztah k ženám, mužská mysogonie, feminismus atd. apod. Tyto články jsou tvořené dobrovolníky tohoto projektu.
 
 ## Podrobnosti
 

@@ -1,23 +1,15 @@
 # JakBalitHolky.com - články a blog
 
-## "Podrobná řešení"
+Titulní stránku můžeme považovat za lež, fantastický otvírák, kterým chceme odhalit něco úžasného.
 
-V rámci předávání techniky jsou návštěvníkovi webu nabízeny odkazy na "podrobná řešení". 
+Technika je mezistupeň, ve kterém se držíme fantastického tónu ale otevíráme filozofii tohoto webu.
 
-Např. u věty **Muži úspěšní se ženami se k ženám chovají dobře a slušně** je nutné přidat odkaz na článek, který se velmi otevřeně a upřímně zabývá otázkou *"Jak se mám k ženám chovat dobře a slušně? Co to vlastně je dobře a slušně?"*
+Články a blog je **třetí část**, na kterou technika v jednotlivých krocích odkazuje.
 
-Tyto články s podrobným řešením však vedou ke stejnému vyústění, jež následuje filozofii tohoto webu -> **Musíš se začít vážně dívat do sebe.** 
-
-Článek "Jak se mám chovat k ženám dobře a slušně?" například bude nejdřív obecně analyzovat, co je "slušné a dobré" avšak nevyhnutelně dojde k tomu, že "slušnost a dobrost" nejsou hodnoty, které se lze naučit ale které lze jen prožít a cítit. Pokud je nelze prožít či cítit pak je nutné se velmi kriticky podívat na překážky, které tomu brání, což může být velice těžké, dokonce nemožné a otevře téma individuální terapie. 
+Ve článcích už mluvíme jasně, vážně a k věci o různých tématech. Rád bych, aby tyto články psaly různí autoři, kteří vědí, o čem píší.
 
 ## Odhalení pravdy
 
-Web `JakBalitHolky.com` žádnou techniku nenabízí, přestože se tak tváří. Jediné, co nabízí, je **pozvání** do introspekce a sebereflexe skrz témata, která zranitelné muže reálně trápí.
+Web `JakBalitHolky.com` reálně žádnou techniku nenabízí, přestože se tak tváří. Nabízí nanejvýš **pozvání** do filozofie  introspekce a sebereflexe skrz témata, která zranitelné muže reálně trápí.
 
-Spousta chlapů se vážně do sebe nepodívá za celý život ani jednou a pokud se tomuto webu podaří k tomuto "pohybu k sobě" jenom ponouknout či inspirovat byť jen jediného chlapa, **pak je mise tohoto webu splněna.**
-
-## Články, blog, atd.
-
-Past slibující rychlá řešení je postupně rozptýlená do řady článků které všechny sdělují stejnou zprávu --- pokud chceš být úspěšný se ženami, pokud chceš opravdu balit holky, začni se vážně dívat sám do sebe.
-
-Tato zpráva však nikdy není explicitně předaná jako řešení čehokoliv. Místo toho se od prvních naprosto lživých slibů v rámci nahození udičky rozpouští do obsahu celého webu, na který se z hlavní stránky náštěvník webu prokliká.
+Web samotný tuto lež neodhaluje. Lež je odhalena pouze zde, na GitHubu projektu.

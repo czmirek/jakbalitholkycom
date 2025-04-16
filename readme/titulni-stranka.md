@@ -2,7 +2,7 @@
 
 Titulní stránka je klíčová.
 
-Její struktura a formát je podobný jiným stránkám, které se reálně na zranitelných mužích snaží zbohatnout a za peníze jim nabízet instruktážní videa, ebooky či slevy na online workshopy o balení holek.
+Struktura a formát titulní strany jsou podobné jiným stránkám, které se reálně na zranitelných mužích snaží zbohatnout a za peníze jim nabízet instruktážní videa, ebooky či slevy na online workshopy o balení holek.
 
 - Vycentrovaný text dělěný na marketingově a psychologicky promyšlené paragrafy
 - Profesionální grafika
@@ -34,6 +34,6 @@ Součástí stránky jsou taky naprosto smyšlené/AI reference. Fantazii se mez
 
 Titulní stránka žádné řešení nesděluje a je zakončena velikým tlačítkem typu "Naučit se tajemství balení holek" nebo "Vstoupit do programu" a podobně.
 
-[^1]: Popravdě v tom žádný rozdíl oproti reálným placeným technikám. Všechno to jsou jen smyšlené lži cílené na zranitelné muže se záměrem získat z nich peníze. 
+[^1]: Popravdě v tom žádný rozdíl oproti reálným placeným technikám. Všechno to jsou jen smyšlené lži a manipulace cílené na zranitelné muže se záměrem získat z nich peníze. 
 
-[^2]: Neexistuje na světě muž, kterému by nějak ublížila introspekce, sebereflexe, terapie a vážný zájem o své bytí a psychický stav. 100% garance úspěchu není až zas taková lež, že? 
+[^2]: Neexistuje na světě muž, kterému by ublížila introspekce, sebereflexe, terapie a vážný zájem o své bytí a psychický stav. Bolest, která je při takovém pohybu cítit, je předmětem terapie a/nebo cestou do hlubších vrstev našeho bytí.
