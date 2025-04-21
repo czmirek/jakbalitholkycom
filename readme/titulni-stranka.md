@@ -37,7 +37,7 @@ Součástí prvního kroku je **sales pitch** který sděluje, že naše technik
 
 V tomto sales pitchi je nutné vytvořit následující rámec: muži, kteří následují tuto techniku, mají splněné všechny sny, které se týkají žen. Mají veškerý sex po kterém touží, dokážou balit holky které chtějí a mají se ženami naplňující vztahy.[^n]
 
-Potřebujeme posílit odhodlání návštěvníka webu se o techniku skutečně zajímat a ničím jej neodrazovat. Proto sdělíme, že technika je založena na úplně jednoduché filozofii, kterou většina mužů za svůj život nikdy nepochopí [^n2].
+Potřebujeme posílit odhodlání návštěvníka webu se o techniku skutečně zajímat a ničím jej neodrazovat. Proto sdělíme, že technika je založena na jednoduché filozofii, kterou většina mužů za svůj život nikdy nepochopí [^n2].
 
 ## Call to action
 
@@ -51,4 +51,4 @@ Titulní stránka žádné řešení nesděluje a je zakončena velikým tlačí
 
 [^y]: *Neexistuje na světě muž, kterému by ublížila introspekce, sebereflexe, terapie a vážný zájem o své bytí a psychický stav. Bolest, která je při takovém pohybu cítit, je předmětem terapie a/nebo cestou do hlubších vrstev našeho bytí.*
 
-[^n]: *Což je pravda. Sebereflexe, introspekce a terapie není nikde na světě součást přirozené diskuze.*
+[^n2]: *Což je pravda. Sebereflexe, introspekce a terapie není nikde na světě součást přirozené diskuze.*
