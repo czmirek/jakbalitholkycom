@@ -1,5 +1,6 @@
 ---
 title: "První krok"
+slug: "prvni-krok"
 ---
 
 <h1 class="fw-bold text-center">První krok k úspěchu</h1>
@@ -39,7 +40,7 @@ Zajímá tě, jak balit holky.
     <h3 class="mb-2">Chceš balit holky. Skvělý.
     <br /> <strong>Co to ale znamená?</strong></h3>
     
-Přečti si následující seznam a vyber si, co k tobě nejvíce sedí a napi3
+Přečti si následující seznam a vyber si, co k tobě nejvíce sedí.
 
 <hr />
 

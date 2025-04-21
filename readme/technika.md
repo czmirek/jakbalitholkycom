@@ -34,32 +34,16 @@ Při uznání hledání techniky nechceme vytvářet dojem, že jsme lepší, ne
 
 ## Podrobná analýza jednotlivých kroků
 
-### Krok 1 - sales pitch
+### Krok 1 - rozjezd
 
 V první kroce je důležité pochválit, validovat čtenáře za správné rozhodnutí, že se vůbec rozhodnul na tlačítko kliknout, spoustě mužům na světě totiž tato "technika" změnila život.
 
-Nejprve ale musíme čtenáře připravit na to, že tento web obsahuje spoustu textu - není zde žádný workshop, žádná youtube videa, žádné ebooky. Že technika má několik kroků, že žádný z těchto kroků nelze přeskočit a všechny texty je nutné pečlivě číst a **přemýšlet nad nimi**. Toto si představuji jako text ve formě nějakého zvýrazněného rámečku na začátku prvního kroku. 
+Muž, který touží po technice a kliknul na první krok má velká očekávání ale i velké odhodlání.
 
-Muž, který na web přišel se *učit nějakou techniku* hledá něco výjmečného. Součástí prvního kroku je **sales pitch** který sděluje, že naše technika je vlastně něco úplně nového, zázračného a hlavně spolehlivě fungujícího.[^b]
+Nejprve ale musíme čtenáře připravit na to, že tento web obsahuje spoustu textu - není zde žádný workshop, žádná youtube videa, žádné ebooky. Technika má několik kroků a žádný z těchto kroků nelze přeskočit a všechny texty je nutné pečlivě číst. Toto si představuji jako text ve formě nějakého zvýrazněného rámečku na začátku prvního kroku. Musí se to ale prezentovat jako součást techniky --- tzn. nutno zde zdůraznit jako "první pravidlo".
 
-V tomto sales pitchi je nutné vytvořit následující rámec: muži, kteří následují tuto techniku, mají splněné všechny sny, které se týkají žen. Mají veškerý sex po kterém touží, dokážou balit holky které chtějí a mají se ženami naplňující vztahy.[^n]
 
-Zároveň je však nutné zvýraznit, čím je technika výjmečná - většina mužů selže.[^s] Zde už by měl být čtenář nadšený k tomu pokračovat ve čtení a ptá se: proč selže? Cílíme na čtenáře, který má silnou motivaci a proto říkáme - muži v této technice selhávají, **protože se technice nevěnují dostatečně dlouho a jsou netrpěliví**. Ti, kteří vydrželi, u holek ohromně uspěli a od té doby jen sklízejí plody své práce.
 
-Posledním bod kroku 1 je sales pitch na druhý krok - co chceš. 
+### Krok 2 - šokující pravda
 
-Shrnutí obsahu 1. kroku:
-
-- Pochvala a validace za rozhodnutí.
-- Varování: web obsahuje spoustu textu a je nutné jej číst pečlivě.
-- Sales pitch: nabízíme úžasnou, novou, výjmečnou techniku "práce na sobě"
-- Většina mužů na této technice selhává - ztrácí trpělivost.
-- Sales pitch na krok 2
-
-### Krok 2 - co chceš
-
-### Krok 3 - šokující pravda
-
-[^b]: *Samozřejmě nesdělujeme, že s něčím podobným přišli budhisté už před 2500 lety.*
-[^n]: *To je samozřejmě naprosto nepodložené tvrzení ale v téhle fázi si to ještě můžeme dovolit.*
 [^s]: *V sebereflexi/introspekci není možné selhat. Jen ji lze nevěnovat pozornost.*
