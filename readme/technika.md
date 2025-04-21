@@ -38,7 +38,7 @@ Při uznání hledání techniky nechceme vytvářet dojem, že jsme lepší, ne
 
 V první kroce je důležité pochválit, validovat čtenáře za správné rozhodnutí, že se vůbec rozhodnul na tlačítko kliknout, spoustě mužům na světě totiž tato "technika" změnila život.
 
-Muž, který touží po technice a kliknul na první krok má velká očekávání ale i velké odhodlání.
+Muži, na které se tento web soustředí, mají od techniky velké očekávání
 
 Nejprve ale musíme čtenáře připravit na to, že tento web obsahuje spoustu textu - není zde žádný workshop, žádná youtube videa, žádné ebooky. Technika má několik kroků a žádný z těchto kroků nelze přeskočit a všechny texty je nutné pečlivě číst. Toto si představuji jako text ve formě nějakého zvýrazněného rámečku na začátku prvního kroku. Musí se to ale prezentovat jako součást techniky --- tzn. nutno zde zdůraznit jako "první pravidlo".
 
