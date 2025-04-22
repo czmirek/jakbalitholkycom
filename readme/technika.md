@@ -23,23 +23,44 @@ První krok techniky pokračuje stále v duchu titulní stránky a postupně za�
 
 - pochvala, validace za rozhodnutí
 - první pravidlo: web obsahuje spoustu textu
-- co chci: výběr z několika možností
+- co vlastně chci: výběr z několika možností  
+  - *Realita: balit holky znamená různé věci. Co chceš ty?*
 
-### Krok 2? - šokující pravda
+### Krok 2 - šokující pravda
+
+V tomto kroce je důležité zdůraznit až fantastický kontrast.
 
 Nápady:
-- *Abys mohl balit holky, musíš přestat řešit balení holek.*
-- *Extrémně jednoduchá otázka: Kdo jsi?*
+
+- *Abys věděl jak balit holky, musíš přestat balit holky.*
+- *Jediná technika jak přistupovat k ženám: žádná technika.*
+  - Zdůraznit - *Většina chlapů tomu nerozumí.*
+  - Zdůraznit - *Je to tak zjevné, sami se divíme, proč to tak je.*
+- *Abys věděl, jak přistupovat k ženám, musíš přestat řešit, jak přistupovat k ženám.*
+  - Přestat to řešit neznamená přestat chtít.
+  - Rozhodnutí se musí přesunout jiným směrem.
+
+### Krok x - konfrontace
+
+
+
+### Krok x - kdo jsi
+
+Nápady:
+- *Extrémně jednoduchá a proto tak extrémně těžká otázka: Kdo jsi?*
+- *Otázka ve které rychle poznáš, jestli o tebe ženy vůbec stojí.*
+- *Nemůžeš si nikdy být jistý "co chceš" pokud nevíš kdo jsi.*
+- *Pokud se snažíš na odpověď přijít rozumově, nikdy odpověď nenajdeš.*
+- *Pokud se na odpověď snažíš nacítit, tak buď odpověď víš, nebo ji nevíš.*
+- *Pokud odpověď nevíš tak budeš se sebou vždy nespokojený.*
+- 
+
+### Krok 4 - jak na to
+
 - **
 
-### Krok 3? - konfrontace
+### Krok 5 - terapie(?)
 
 Nápady:
-- Chceš hrozně moc věcí. Nemůžeš.
-- Chceš věřit blbostem (technikám), nebo sobě? Holky mají rády autenticitu a ne tvoje blbé nápady...
-
-### Krok 4? - jak na to
-
-### Krok 5? - terapie(?)
 
 ### ...
