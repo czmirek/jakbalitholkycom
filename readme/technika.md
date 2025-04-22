@@ -77,3 +77,7 @@ Zde už začínáme víceméně vážně. Už netřeba vymýšlet fantastická t
 Čtenář webu v tomto kroce se zjevně vědomě či nevědomě zajímá o pohled k sobě skrz nejtěžší možnou otázku na světě - kdo jsem.
 
 Tento krok je již něco mezi krokem a článkem.
+
+### Krok 5 - ?
+
+Todo

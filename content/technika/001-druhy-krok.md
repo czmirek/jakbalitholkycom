@@ -1,4 +1,4 @@
 ---
-title: "Druhý krok"
+title: "Druhý krok - Šokující Pravda!"
 slug: "druhy-krok"
 ---
