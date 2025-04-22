@@ -24,6 +24,10 @@ První krok techniky pokračuje stále v duchu titulní stránky a postupně za�
 - pochvala, validace za rozhodnutí
 - první pravidlo: web obsahuje spoustu textu
 - co vlastně chci: výběr z několika možností  
+  - Flashy, provokativní text, téma: Zjistili jsme, že muži si pod balením holek představují naprosto odlišné věci.
+    - Kategorizovat
+    - Dát tomu váhu, tématizovat, zvýraznit
+    - Důležitý: co chceš ty?
   - *Realita: balit holky znamená různé věci. Co chceš ty?*
 
 ### Krok 2 - šokující pravda
@@ -36,31 +40,40 @@ Nápady:
 - *Jediná technika jak přistupovat k ženám: žádná technika.*
   - Zdůraznit - *Většina chlapů tomu nerozumí.*
   - Zdůraznit - *Je to tak zjevné, sami se divíme, proč to tak je.*
+  - Zdůraznit - *Je to vlastně tak úplně jednoduchá věc.*
 - *Abys věděl, jak přistupovat k ženám, musíš přestat řešit, jak přistupovat k ženám.*
-  - Přestat to řešit neznamená přestat chtít.
-  - Rozhodnutí se musí přesunout jiným směrem.
+  - Upozornit: přestat to řešit **neznamená přestat chtít/toužit**, neznamená to dělat kompromisy ve svých touhách.
+  - Postupně navádět z fantastického kontrastu na: 
+    - Co to ale znamená
+    - Co z toho plyne
+    - *Co s tím lze dělat?*
+    - ...*Strávili jsme roky dotazováním se mužů / dělali jsme důsledný výzkum*
+    - ...*Dali jsme dohromady tuto základní otázku.*
 
-### Krok x - konfrontace
+### Krok x - zásadní otázka
 
-
-
-### Krok x - kdo jsi
-
-Nápady:
 - *Extrémně jednoduchá a proto tak extrémně těžká otázka: Kdo jsi?*
-- *Otázka ve které rychle poznáš, jestli o tebe ženy vůbec stojí.*
-- *Nemůžeš si nikdy být jistý "co chceš" pokud nevíš kdo jsi.*
-- *Pokud se snažíš na odpověď přijít rozumově, nikdy odpověď nenajdeš.*
-- *Pokud se na odpověď snažíš nacítit, tak buď odpověď víš, nebo ji nevíš.*
-- *Pokud odpověď nevíš tak budeš se sebou vždy nespokojený.*
-- 
+  - *Otázka ve které rychle poznáš, jestli o tebe ženy vůbec stojí.*
+  - *Pokud nestojíš sám o sebe, jak by o tebe mohly stát ženy?*
+  - *Nemůžeš si nikdy být jistý "co chceš" pokud nevíš kdo jsi.*
+  - *Pokud se snažíš na odpověď přijít rozumově, nikdy odpověď nenajdeš.*
+  - *Pokud se na odpověď snažíš nacítit, tak buď odpověď víš, nebo ji nevíš.*
+  - *Pokud odpověď nevíš tak budeš se sebou vždy nespokojený.*
+
+- Opakovaně zdůrazňovat důležitost - řešení této otázky je naprosto klíčové. Zdůraznit naprosté fantastično, zde nutný gigantický sales pitch: 
+  - muži, kteří se touto otázkou dlouhodobě zabývají, **jsou se zěnami obrovsky úspěšní** a plní si všechny své sny.
+  - Řešení otázky "Kdo jsi?" je naprostý "deal breaker". Mění to úplně všechno.
+  - **Kontrast** --- tato cesta není pro každého.
+    - Smutná realita: mnoho mužů se na tuto otázku nezeptá ani jednou za život. **Protože jim ale nikdo neřekl jak se to dělá!!** (což je pravda)
+
+Další krok --- velké tlačítko "Jak mám zjistit kdo jsem?" nebo "Jak se sám sebe zeptat: Kdo jsi?"
 
 ### Krok 4 - jak na to
 
-- **
+V tomto kroce začínají odkazy na články.
 
-### Krok 5 - terapie(?)
+Zde už začínáme víceméně vážně. Už netřeba vymýšlet fantastická tvrzení, sales pitche, CTO.
 
-Nápady:
+Čtenář webu v tomto kroce se zjevně vědomě či nevědomě zajímá o pohled k sobě skrz nejtěžší možnou otázku na světě - kdo jsem.
 
-### ...
+Tento krok je již něco mezi krokem a článkem.
