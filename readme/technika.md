@@ -2,7 +2,7 @@
 
 Na titulní stránku navazuje **první krok** jakési tajuplné techniky, o které titulní stránka však vůbec nic neříká - pouze to, že funguje, že je skvělá, že je 100% garantovaná, že už ji úspěšně vyzkoušely miliony mužů na celém světě a podobně.
 
-První krok techniky pokračuje stále v duchu titulní stránky a postupně začíná něco odhalovat. Následuje CTA pro druhý krok, třetí krok atd. - podstatné však je, že tato "technika" je jen uznání jednoduchých sdělení.
+Technika pokračuje v duchu titulní stránky a postupně začíná něco odhalovat. Následuje CTA pro druhý krok, třetí krok atd. - podstatné však je, že tato "technika" je jen uznání jednoduchých sdělení.
 
 - pokud se muž k ženám chová dobře a slušně
 - pokud je respektuje jako lidské bytosti

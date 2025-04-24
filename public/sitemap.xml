@@ -4,10 +4,14 @@
   <url>
     <loc>http://localhost:1313/</loc>
   </url><url>
+    <loc>http://localhost:1313/technika/ctvrty-krok/</loc>
+  </url><url>
     <loc>http://localhost:1313/technika/druhy-krok/</loc>
   </url><url>
     <loc>http://localhost:1313/technika/prvni-krok/</loc>
   </url><url>
     <loc>http://localhost:1313/technika/</loc>
+  </url><url>
+    <loc>http://localhost:1313/technika/treti-krok/</loc>
   </url>
 </urlset>
